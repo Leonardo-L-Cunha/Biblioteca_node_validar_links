@@ -21,7 +21,7 @@ npm install
 
 Após a instalação das dependências, você pode testar os links de um arquivo em formato Markdown utilizando o seguinte comando no terminal:
 
+```bash
+npm run cli diretorio-do-arquivo em markdown
+```
 
-### Testando links no terminal
-
-Após a instalação das dependências, você pode testar os links de um arquivo em formato Markdown utilizando o seguinte comando no terminal:
